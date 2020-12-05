@@ -1,7 +1,7 @@
 <?php
 
 $city_name = 'London';
-$api_key = 'e845dfea671332a1e942ea5fec4ab12a';
+$api_key = '<your_openweathermap.org-api>';
 
 $api_url = 'http://api.openweathermap.org/data/2.5/weather?q='.$city_name.'&appid='.$api_key;
 
